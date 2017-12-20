@@ -119,6 +119,7 @@ header{
 & nav{
     @extend .row;
     padding:2rem 0;
+    
 }
 & nav>ul>li>a{
     display:block;
@@ -131,6 +132,7 @@ header{
     border-bottom: none;
     padding:1.0rem 2rem;
     line-height: 1;
+    background-color: $color-white;
 }
 & nav>ul>li>a:hover{
     font-weight: 700;
