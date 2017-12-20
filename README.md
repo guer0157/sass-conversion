@@ -1,2 +1,2 @@
 # sass-conversion
-Mad9013 Sass Conversion
+Sample Site to be used as practice in converting CSS to SASS
